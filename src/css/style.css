@@ -42,7 +42,7 @@ header {
 
 .apresentacao {
     text-align: center;
-    background-image: url(/src/images/apresentação.jpg);
+    background-image: url(/VGC/src/images/apresentação.jpg);
     background-size: cover;
     background-position: center;
     height: 500px;
@@ -69,7 +69,7 @@ header {
 }
 
 .container .introducao {
-    background-image: url(/src/images/intro.jpg);
+    background-image: url(/VGC/src/images/intro.jpg);
     background-size: cover;
     background-position: center 30%;
     width: 100%;
@@ -122,7 +122,7 @@ header {
 }
 
 .container .teambiulding {
-    background-image: url(/src/images/teambuilding.jpg);
+    background-image: url(/VGC/src/images/teambuilding.jpg);
     background-size: cover;
     background-position: 30%;
     width: 100%;
@@ -163,7 +163,7 @@ header {
 }
 
 .container .battles {
-    background-image: url(/src/images/battle.jpg);
+    background-image: url(/VGC/src/images/battle.jpg);
     background-size: cover;
     background-position: center 65%;
     width: 100%;
@@ -202,7 +202,7 @@ header {
 }
 
 .container .ferramentas {
-    background-image: url(/src/images/ferramentas.jpg);
+    background-image: url(/VGC/src/images/ferramentas.jpg);
     background-size: cover;
     background-position: center 65%;
     width: 100%;
@@ -226,7 +226,7 @@ header {
 
 /*introdução*/
 .img-background {
-    background-image: url(/src/images/Raihan.jpg);
+    background-image: url(/VGC/src/images/Raihan.jpg);
     height: 380px;
     background-position: center;
 }
@@ -268,7 +268,7 @@ header {
 }
 /*Teambulding*/
 .img-background-teambulding {
-    background-image: url(/src/images/stats+hyper+train.jpg);
+    background-image: url(/VGC/src/images/stats+hyper+train.jpg);
     height: 380px;
     background-position: center;
 }
@@ -360,7 +360,7 @@ justify-content: center;
 /*sinergia*/
 .img-background-sinergia {
 height: 380px;
-background-image: url(/src/images/ferramentas.jpg);
+background-image: url(/VGC/src/images/ferramentas.jpg);
 background-position: center;
 }
 .intro-text .caixa-exemplo {
@@ -384,7 +384,7 @@ background-position: center;
 /*consistencia*/
 .img-background-consis {
     height: 380px;
-    background-image: url(/src/images/Dyna.jpg);
+    background-image: url(/VGC/src/images/Dyna.jpg);
     background-position: center;
 }
 .intro-text .consis h3 {
@@ -394,26 +394,26 @@ background-position: center;
 /*item*/
 .img-background-item {
     height: 380px;
-    background-image: url(/src/images/conk.jpg);
+    background-image: url(/VGC/src/images/conk.jpg);
     background-position: center;
 }
 /*protect*/
 .img-background-protect {
     height: 380px;
-    background-image: url(/src/images/800px-Protect_VIII.png);
+    background-image: url(/VGC/src/images/800px-Protect_VIII.png);
     background-position: center;
 }
 /*trick room*/
 .img-background-trick-room {
     height: 380px;
-    background-image: url(/src/images/image0\(5\).jpeg);
+    background-image: url(/VGC/src/images/image0\(5\).jpeg);
     background-position: center;
 }
 /*battles*/
 .img-background-battles {
     height: 380px;
     background-position: center;
-    background-image: url(/src/images/battle.jpg);
+    background-image: url(/VGC/src/images/battle.jpg);
 }
 /*ferramentas*/
 .img-background-ferramentas {
@@ -429,7 +429,7 @@ background-position: center;
         display: flex;
         flex-direction: column;
         width: 100%;
-        background-image: url(/src/images/header.jpg);
+        background-image: url(/VGC/src/images/header.jpg);
     }
 
     .logo img {
@@ -462,7 +462,7 @@ background-position: center;
 
     .apresentacao {
         text-align: center;
-        background-image: url(/src/images/intro-mobile.jpg);
+        background-image: url(/VGC/src/images/intro-mobile.jpg);
         background-position: center center;
         height: 450px;
         width: 100%;
