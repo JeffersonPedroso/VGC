@@ -569,6 +569,10 @@ background-position: center;
     padding-left: 0;
     margin-left: 0;
 }
+.intro-text li::marker {
+    padding-left: 0;
+    
+}
 .intro-text .caixa-exemplo {
     width: 85%;
     height: auto;
