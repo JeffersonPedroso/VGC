@@ -565,13 +565,9 @@ background-position: center;
         align-items: center;
         text-align: center;
   }
-.intro-text ul li, ol li {
+.intro-text ul li::marker, ol li::marker {
     padding-left: 0;
     margin-left: 0;
-}
-.intro-text li::marker {
-    padding-left: 0;
-    
 }
 .intro-text .caixa-exemplo {
     width: 85%;
